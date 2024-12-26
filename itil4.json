@@ -1,0 +1,119 @@
+{
+    "quiz": {
+        "Id": 4,
+        "name": "ITIL 4: Foundation",
+        "description": "Practice Set 4"
+    },
+    "questions": [
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 1,
+            "Name": "Which helps to manage an incident when it is unclear which support team should be working on the incident?",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 1,
+                    "Name": "Disaster recovery plans",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 1,
+                    "Name": "Swarming",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 1,
+                    "Name": "Target resolution times",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 1,
+                    "Name": "Self-help",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 2,
+            "Name": "Which statement about the 'continual improvement' practice is CORRECT?",
+            "explaination": "",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 2,
+                    "Name": "Continual improvement participation should be limited to a small dedicated team",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 2,
+                    "Name": "It is the role of senior management to authorize improvement initiatives",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 2,
+                    "Name": "Training should be provided to those involved in continual improvement",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 2,
+                    "Name": "A single continual improvement register should be maintained by senior management",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 3,
+            "Name": "Which does the ITIL service value system discourage?",
+            "explaination": "",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 3,
+                    "Name": "Coordinated authorities and responsibilities",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 3,
+                    "Name": "Organizational silos",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 3,
+                    "Name": "Interfaces among practices",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 3,
+                    "Name": "Organizational agility",
+                    "IsAnswer": false
+                }
+            ]
+        }
+    ]
+}

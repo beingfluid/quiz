@@ -1,0 +1,120 @@
+{
+    "quiz": {
+        "Id": 9,
+        "name": "ITIL 4 Foundation",
+        "description": "Practice Set 9"
+    },
+    "questions": [
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 1,
+            "Name": "Which guiding principle says that it is not usually necessary to build something new?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>Start where you are",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 1,
+                    "Name": "Focus on value",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 1,
+                    "Name": "Start where you are",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 1,
+                    "Name": "Progress iteratively with feedback",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 1,
+                    "Name": "Think and work holistically",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 2,
+            "Name": "Which practice includes management of workarounds and known errors?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>Problem management",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 2,
+                    "Name": "Monitoring and event management",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 2,
+                    "Name": "Service configuration management",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 2,
+                    "Name": "Problem management",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 2,
+                    "Name": "Incident management",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 3,
+            "Name": "Which activity is part of the 'continual improvement' practice?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>Prioritizing and creating business cases for improvement initiatives",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 3,
+                    "Name": "Handling compliments and complaints from users to identify improvements",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 3,
+                    "Name": "Improving relationships with and between stakeholders",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 3,
+                    "Name": "Prioritizing and creating business cases for improvement initiatives",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 3,
+                    "Name": "Identifying the cause of unplanned interruptions to service",
+                    "IsAnswer": false
+                }
+            ]
+        }
+    ]
+}

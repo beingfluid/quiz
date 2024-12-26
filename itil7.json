@@ -1,0 +1,120 @@
+{
+    "quiz": {
+        "Id": 7,
+        "name": "ITIL 4 Foundation",
+        "description": "Practice Set 7"
+    },
+    "questions": [
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 1,
+            "Name": "Which activity contributes to the 'where are we now?' step of the 'continual improvement' model?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>Performing baseline assessments",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 1,
+                    "Name": "Executing improvement actions",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 1,
+                    "Name": "Performing baseline assessments",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 1,
+                    "Name": "Defining the improvement plan",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 1,
+                    "Name": "Understanding the business mission",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 2,
+            "Name": "Which step of the continual improvement model includes baseline assessments?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>Where are we now?",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 2,
+                    "Name": "Did we get there?",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 2,
+                    "Name": "Where are we now?",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 2,
+                    "Name": "What is the vision?",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 2,
+                    "Name": "Where do we want to be?",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 3,
+            "Name": "Which describes a 'change authority'?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>A person who approves a change",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 3,
+                    "Name": "A model used to determine who will assess a change",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 3,
+                    "Name": "A person who approves a change",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 3,
+                    "Name": "A tool used to help plan changes",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 3,
+                    "Name": "A way to manage the people aspects of change",
+                    "IsAnswer": false
+                }
+            ]
+        }
+    ]
+}

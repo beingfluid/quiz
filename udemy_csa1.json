@@ -1,0 +1,38 @@
+[
+  {
+    "que": "What is generated from the Service Catalog once a user places an order for an item or service?",
+    "opt": [
+      "A change request",
+      "An Order Guide",
+      "A request",
+      "An SLA"
+    ],
+    "ans": "C",
+    "explaination":"A request"
+  },
+  {
+    "que": "Which module would you use to create a new automation of business logic such as approvals, tasks, and notifications?",
+    "opt": [
+      "Process Automation &gt; Flow Designer",
+      "Process Automation &gt; Flow Administration",
+      "Process Automation &gt; Workflow Editor",
+      "Process Automation &gt; Process Flow",
+      "Process Automation &gt; Active Flows"
+    ],
+    "ans": "A",
+		"explaination":"Process Automation &gt; Flow Designer"
+  },
+  {
+    "que": "What do you need to do before you can use an Application-based trigger in your flow?",
+    "opt": [
+      "Activate application trigger spoke",
+      "Activate trigger security rules",
+      "Activate application spoke, and plug-ins as needed",
+      "Assign Application trigger role [sn_app_trigger_write] to SME",
+      "Activate application plugins only"
+    ],
+    "ans": "C",
+		"explaination":"Activate application spoke, and plug-ins as needed"
+  }
+
+]

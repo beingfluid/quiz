@@ -1,0 +1,120 @@
+{
+    "quiz": {
+        "Id": 6,
+        "name": "ITIL 4 Foundation",
+        "description": "Practice Set 6"
+    },
+    "questions": [
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 1,
+            "Name": "Staff in an IT organization are very busy, mostly carrying out tasks that add little or no value to the organization or its customers. Which guiding principle recommends that the unnecessary work should be eliminated?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>Keep it simple and practical",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 1,
+                    "Name": "Keep it simple and practical",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 1,
+                    "Name": "Think and work holistically",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 1,
+                    "Name": "Start where you are",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 1,
+                    "Name": "Progress iteratively with feedback",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 2,
+            "Name": "Which practice has a purpose that includes the management of financially valuable components that can contribute to the delivery of an IT service?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>IT asset management",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 2,
+                    "Name": "Deployment management",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 2,
+                    "Name": "Service configuration management",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 2,
+                    "Name": "Change enablement",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 2,
+                    "Name": "IT asset management",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 3,
+            "Name": "Which practice ensures that service actions, that are a normal part of service delivery, are effectively handled?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>Service request fulfilment",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 3,
+                    "Name": "Incident management",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 3,
+                    "Name": "Service level management",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 3,
+                    "Name": "Problem management",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 3,
+                    "Name": "Service request fulfilment",
+                    "IsAnswer": true
+                }
+            ]
+        }
+    ]
+}

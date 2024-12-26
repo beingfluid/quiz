@@ -1,0 +1,120 @@
+{
+    "quiz": {
+        "Id": 8,
+        "name": "ITIL 4 Foundation",
+        "description": "Practice Set 8"
+    },
+    "questions": [
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 1,
+            "Name": "Which benefit is MOST aligned with the guiding principle 'progress iteratively with feedback'?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>Service providers are able to respond more quickly to customer needs",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 1,
+                    "Name": "Service providers are able to respond more quickly to customer needs",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 1,
+                    "Name": "Bottlenecks in the service provider's workflow are identified",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 1,
+                    "Name": "The complexities of the service provider's IT systems are identified",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 1,
+                    "Name": "The service provider gains a better understanding of the customer experience",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 2,
+            "Name": "What is the purpose of the 'incident management' practice?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>To minimize the negative impact of incidents by restoring normal service operation asquickly as possible",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 2,
+                    "Name": "To minimize the negative impact of incidents by restoring normal service operation asquickly as possible",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 2,
+                    "Name": "To capture demand for incident resolution and service requests",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 2,
+                    "Name": "To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 2,
+                    "Name": "To support the agreed service quality by effective handling of all agreed user-initiated service requests",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "QuestionTypeId": 1,
+            "Id": 3,
+            "Name": "Why should some service requests be fulfilled with no additional approvals?",
+            "explaination": "<b style=\"color:green;\">Correct: </b>To streamline the fulfilment workflow",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 3,
+                    "Name": "To ensure that spending is properly accounted for",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 3,
+                    "Name": "To ensure that information security requirements are met",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 3,
+                    "Name": "To streamline the fulfilment workflow",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 3,
+                    "Name": "To set user expectations for fulfilment times",
+                    "IsAnswer": false
+                }
+            ]
+        }
+    ]
+}

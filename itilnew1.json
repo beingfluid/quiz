@@ -1,0 +1,120 @@
+{
+  "quiz": {
+      "Id": 3,
+      "name": "ITIL 4: Foundation",
+      "description": "Practice Set 3"
+  },
+  "questions": [
+      {
+          "QuestionType": {
+              "Id": 1,
+              "Name": "Multiple Choice",
+              "IsActive": true
+          },
+          "QuestionTypeId": 1,
+          "Id": 1,
+          "Name": "What is the effect of increased automation on the 'service desk' practice?",
+          "explaination": "A.  <b style=\"color:green;\">Correct</b>. \"With increased automation… The impact on service desks is reduced\nphone contact, less low-level work, and a greater ability to focus on excellent CX\nwhen personal contact is needed\".&nbsp;<div>B. <b style=\"color:red;\">Incorrect</b>. The effect of automation is to increase self-service, not to decrease it.\n\"With increased automation, AI, robotic process automation (RPA), and chatbots,\nservice desks are moving to provide more self-service logging and resolution\ndirectly via online portals and mobile applications\".&nbsp;</div><div>C. <b style=\"color:red;\">Incorrect</b>. The opposite is true. \"With increased automation and the gradual\nremoval of technical debt, the focus of the service desk is to provide support for\n‘people and business’ rather than simply technical issues\".&nbsp;</div><div>D. <b style=\"color:red;\">Incorrect</b>. The use of automation will not eliminate the need to escalate incidents.\n\"A key point to be understood is that, no matter how efficient the service desk and\nits people are, there will always be issues that need escalation and underpinning\nsupport from other teams\".&nbsp;</div>",
+          "Options": [
+              {
+                  "Id": 1,
+                  "QuestionId": 1,
+                  "Name": "Greater ability to focus on customer experience when personal contact is needed",
+                  "IsAnswer": true
+              },
+              {
+                  "Id": 2,
+                  "QuestionId": 1,
+                  "Name": "Decrease in self-service incident logging and resolution",
+                  "IsAnswer": false
+              },
+              {
+                  "Id": 3,
+                  "QuestionId": 1,
+                  "Name": "Increased ability to focus on fixing technology instead of supporting people",
+                  "IsAnswer": false
+              },
+              {
+                  "Id": 4,
+                  "QuestionId": 1,
+                  "Name": "Elimination of the need to escalate incidents to support teams",
+                  "IsAnswer": false
+              }
+          ]
+      },
+      {
+          "QuestionType": {
+              "Id": 1,
+              "Name": "Multiple Choice",
+              "IsActive": true
+          },
+          "QuestionTypeId": 1,
+          "Id": 2,
+          "Name": "Which term describes the functionality offered by a service?",
+          "explaination": "A. <b style=\"color:red;\">Incorrect</b>. Cost is \"The amount of money spent on a specific activity or resource.\"&nbsp;<div>B.  <b style=\"color:green;\">Correct</b>. Utility is \"The functionality offered by a product or service.\"&nbsp;</div><div>C. <b style=\"color:red;\">Incorrect</b>. Warranty is \"Assurance that a product or service will meet agreed\nrequirements\".&nbsp;</div><div>D. <b style=\"color:red;\">Incorrect</b>. A risk is \"A possible event that could cause harm or loss, or make it\nmore difficult to achieve objectives\".&nbsp;</div>",
+          "Options": [
+              {
+                  "Id": 1,
+                  "QuestionId": 2,
+                  "Name": "Cost",
+                  "IsAnswer": false
+              },
+              {
+                  "Id": 2,
+                  "QuestionId": 2,
+                  "Name": "Utility",
+                  "IsAnswer": true
+              },
+              {
+                  "Id": 3,
+                  "QuestionId": 2,
+                  "Name": "Warranty",
+                  "IsAnswer": false
+              },
+              {
+                  "Id": 4,
+                  "QuestionId": 2,
+                  "Name": "Risk",
+                  "IsAnswer": false
+              }
+          ]
+      },
+      {
+          "QuestionType": {
+              "Id": 1,
+              "Name": "Multiple Choice",
+              "IsActive": true
+          },
+          "QuestionTypeId": 1,
+          "Id": 3,
+          "Name": "Which is the purpose of the 'monitoring and event management' practice?",
+          "explaination": "A. <b style=\"color:red;\">Incorrect</b>. \"The purpose of the service configuration management practice is to\nensure that accurate and reliable information about the configuration of services,\nand the CIs that support them, is available when and where it is needed\".&nbsp;<div>B.  <b style=\"color:green;\">Correct</b>. \"The purpose of the monitoring and event management practice is to\nsystematically observe services and service components, and record and report\nselected changes of state identified as events\".&nbsp;</div><div>C. <b style=\"color:red;\">Incorrect</b>. \"The purpose of the information security management practice is to\nprotect the information needed by the organization to conduct its business\".&nbsp;</div><div>D. <b style=\"color:red;\">Incorrect</b>. \"The purpose of the incident management practice is to minimize the\nnegative impact of incidents by restoring normal service operation as quickly as\npossible\".</div>",
+          "Options": [
+              {
+                  "Id": 1,
+                  "QuestionId": 3,
+                  "Name": "To ensure that accurate and reliable information about the configuration of services is available when and where it is needed",
+                  "IsAnswer": false
+              },
+              {
+                  "Id": 2,
+                  "QuestionId": 3,
+                  "Name": "To systematically observe services and service components, and record and report selected changes of state",
+                  "IsAnswer": true
+              },
+              {
+                  "Id": 3,
+                  "QuestionId": 3,
+                  "Name": "To protect the information needed by the organization to conduct its business",
+                  "IsAnswer": false
+              },
+              {
+                  "Id": 4,
+                  "QuestionId": 3,
+                  "Name": "To minimize the negative impact of incidents by restoring normal service operation as quickly as possible",
+                  "IsAnswer": false
+              }
+          ]
+      }
+  ]
+}

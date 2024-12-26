@@ -1,0 +1,36 @@
+[
+  {
+    "que": "Which one of the following statements best describes the purpose of an Update Set?",
+    "opt": [
+      "An Update Set allows administrators to group a series of changes into a named set and then move this set as a unit to other systems",
+      "By default, an Update Set includes customizations, Business Rules, and homepages",
+      "An Update Set is a group of customizations that is moved from Production to Development",
+      "By default, the changes included in an Update Set are visible only in the instance to which they are applied"
+    ],
+    "ans": "A",
+    "explaination": "An Update Set allows administrators to group a series of changes into a named set and then move this set as a unit to other systems"
+  },
+  {
+    "que": "Which three Variable Types can be added to a Service Catalog Item?",
+    "opt": [
+      "True/False, Multiple Choice, and Ordered",
+      "True/False, Checkbox, and Number List",
+      "Number List, Single Line Text, and Reference",
+      "Multiple Choice, Select Box, and Checkbox"
+    ],
+    "ans": "D",
+    "explaination": "Multiple Choice, Select Box, and Checkbox"
+  },
+  {
+    "que": "Which of the following can be customized through the Basic Configuration UI 16 module? (Choose three.)",
+    "opt": [
+      "Banner Image",
+      "Record Number Format",
+      "Browser Tab Title",
+      "System Date Format",
+      "Form Header Size"
+    ],
+    "ans": "A,C,D",
+    "explaination": "Banner Image<br />Browser Tab Title<br />System Date Format"
+  }
+]

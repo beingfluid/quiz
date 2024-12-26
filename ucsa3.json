@@ -1,0 +1,35 @@
+[
+  {
+    "que": "Your company is giving all first line workers a special T-shirt as a recognition for their hard work. Management team wants a way for employees to order the T- shirt, with the ability to specify the preferred size and color. How would you ensure that only first line workers (non-managers) can submit the order?",
+    "opt": [
+      "Create Record Producer and use the Available For list to specify First Line [sn_first_line] role",
+      "Create Catalog Item and use the Not Available list to specify the Manager Group",
+      "Create Catalog Item and use the Available For list to specify ITIL [itil] role",
+      "Create Order Guide and use the User Criteria list to specify First Line [sn_first_line] role"
+    ],
+    "ans": "B",
+    "explaination": "Create Catalog Item and use the Not Available list to specify the Manager Group"
+  },
+  {
+    "que": "What is the path an Administrator could take to view the fulfillment stage task list for an order placed by a user?",
+    "opt": [
+      "RITM (Number)&gt;REQ (Number)&gt;PROCUREMENT (Number)",
+      "REQ (Number)&gt;RITM (Number)&gt;PROCUREMENT (Number)",
+      "REQ (Number)&gt;RITM (Number)&gt;TASK (Number)",
+      "FULFILLMENT (Number)&gt;RITM (Number)&gt;TASK (Number)"
+    ],
+    "ans": "C",
+    "explaination": "REQ (Number)&gt;RITM (Number)&gt;TASK (Number)"
+  },
+  {
+    "que": "What is the Import Set Table?",
+    "opt": [
+      "A table where data will be placed, post-transformation",
+      "A table that determines relationships",
+      "A staging area for imported records",
+      "A repository for Update Set information"
+    ],
+    "ans": "C",
+    "explaination": "A staging area for imported records"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "que": "What section on a task record would you use to see the most recent update made to a record?",
+    "opt": [
+      "Journal",
+      "Timeline",
+      "update log",
+      "audit log",
+      "diary",
+      "activity"
+    ],
+    "ans": "F",
+    "explaination": "activity"
+  },
+  {
+    "que": "What are examples of UI actions, relating to lists? choose four answers?",
+    "opt": [
+      "List buttons",
+      "list context menu",
+      "list choices",
+      "list links",
+      "list control",
+      "lists overwrite"
+    ],
+    "ans": "A,B,C,D",
+    "explaination": "List buttons<br />list context menu<br />list choices<br />list links"
+  },
+  {
+    "que": "which feature allows you to automate business logic for a particular application or process such as approvals, task, notifications, and record Operations?",
+    "opt": [
+      "Flows",
+      "Action sequence",
+      "Flow diagrams",
+      "action sets",
+      "task flows"
+    ],
+    "ans": "A",
+    "explaination": "Flows"
+  },
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "set": "Practice Set 1",
+        "number":1,
+        "que":"What is the definition of a service?",
+        "que_options":[
+            "The means by which an organization is directed and controlled",
+            "A set of specialized organizational capabilities for enabling value to customers",
+            "A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress",
+            "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks"
+        ],
+        "ans":"D",
+        "explaination":"A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks"
+    },
+    {
+        "set": "Practice Set 1",
+        "number":2,
+        "que":"Identify the missing word(s) in the following sentence.<br />Utility is the [?] offered by a product or service to meet a particular need.",
+        "que_options":[
+            "Assurance",
+            "Promise",
+            "Functionality",
+            "Outcome"
+        ],
+        "ans":"C",
+        "explaination":"Functionality"
+    },
+    {
+        "set": "Practice Set 1",
+        "number":3,
+        "que":"Identify the missing word in the following sentence.<br />[?] is the practice of ensuring that risks are properly assessed, authorizing changes to proceed, and managing a change schedule in order to maximize the number of successful IT changes.",
+        "que_options":[
+            "IT asset management",
+            "Service configuration management",
+            "Change control",
+            "Service level management"
+        ],
+        "ans":"C",
+        "explaination":"Change control"
+    }
+]
