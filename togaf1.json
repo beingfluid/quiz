@@ -1,8 +1,8 @@
 {
     "quiz": {
         "Id": 1,
-        "name": "TOGAF 1",
-        "description": "TOGAF: Practice Set 1"
+        "name": "TOGAF® Enterprise Architecture Part 1 Practice Test",
+        "description": "Official 1"
     },
     "questions": [
         {
@@ -11,35 +11,1517 @@
                 "Name": "Multiple Choice",
                 "IsActive": true
             },
-            "quizImage": "images/quote-practice-makes-perfect-after-a-long-time-of-practicing-our-work-will-become-natural-bruce-lee-92-45-55.jpg",
+            "quizImage": "",
             "QuestionTypeId": 1,
             "Id": 1,
-            "Name": "In the <b>Preliminary Phase</b>, which of the following is <b style=\"color:red;\">NOT</b> a typical output?<br>",
-            "explaination": "The Preliminary Phase sets the groundwork for the architecture work. While it deals with the organizational model, tailoring the framework, and initial repository content, it doesn't delve into high-level system design.",
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;\"><font color=\"#000000\" face=\"Arial\"><span style=\"font-size: 10.1px;\">Complete the sentence. The TOGAF Standard covers the development of four architecture domains, Application, Data, Technology, and …………</span></font></p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The TOGAF Standard covers the development of four architecture domains, Application, Data, Technology, and Business.</p>",
             "Options": [
                 {
                     "Id": 1,
                     "QuestionId": 1,
-                    "Name": "High-level system design",
+                    "Name": "Business",
                     "IsAnswer": true
                 },
                 {
                     "Id": 2,
                     "QuestionId": 1,
-                    "Name": "Initial Architecture Repository content",
+                    "Name": "Capability",
                     "IsAnswer": false
                 },
                 {
                     "Id": 3,
                     "QuestionId": 1,
-                    "Name": "Tailored Architecture Framework",
+                    "Name": "Transformation",
                     "IsAnswer": false
                 },
                 {
                     "Id": 4,
                     "QuestionId": 1,
-                    "Name": "Organizational Model for Enterprise Architecture",
+                    "Name": "Transition",
                     "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 8.59.19 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 2,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"></p><span style=\"font-family: inherit;\">Consider the following descriptions of deliverables consumed and produced across the TOGAF</span><br><span style=\"font-family: inherit;\">Architecture Development Method (ADM) cycle:</span><div><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>1:</b> It provides a summary of the changes to the enterprise that will accrue from successful deployment of the Target Architecture.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>2: </b>The joint agreement between development partners and sponsors on the deliverables, quality, and fitness-for-purpose of an architecture.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>3:</b> A document that is sent from the sponsoring organization to the architecture organization to trigger the start of an architecture development cycle.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>4:</b> The deliverable container for the core architectural artifacts created during a project and for important related information.</p><span style=\"font-family: inherit;\">Which deliverables match these descriptions?</span><p></p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"></p><p></p></div>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">1 <b>Architecture Vision</b></p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">It provides a summary of the changes to the enterprise that will accrue from successful deployment of the Target Architecture.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">2 <b>Architecture Contract</b></p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The joint agreement between development partners and sponsors on the deliverables, quality, and fitness-for-purpose of an architecture.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">3 <b>Request for Architecture Work</b></p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">A document that is sent from the sponsoring organization to the architecture organization to trigger the start of an architecture development cycle.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">4 <b>Architecture Definition Document</b></p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The deliverable container for the core architectural artifacts created during a project and for important related information.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 2,
+                    "Name": "1 Architecture Vision – 2 Architecture Contract – 3 Request for Architecture Work – 4 Architecture Definition Document",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 2,
+                    "Name": "1 Architecture Vision – 2 Request for Architecture Work – 3 Architecture Vision – 4 Architecture Definition Document",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 2,
+                    "Name": "1 Change Request – 2 Architecture Contract – 3. Architecture Definition Document - 4 Request for Architecture Work",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 2,
+                    "Name": "1 Request for Architecture Work – 2 Architecture Definition Document – 3 Architecture Contract – 4 Architecture Vision",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 3,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Where is the <b style=\"color:red;\">practical</b> guidance on how to apply the TOGAF Standard provided?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The TOGAF Series Guides provide practical guidance on how to apply the TOGAF Standard.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 3,
+                    "Name": "The TOGAF Fundamental Content",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 3,
+                    "Name": "The TOGAF Library",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 3,
+                    "Name": "The TOGAF Series Guides",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 3,
+                    "Name": "The ADM Techniques",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 8.59.32 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 4,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Consider the following illustration of an architecture development cycle:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Select the correct phase names corresponding to the labels 1, 2, and 3.</p>",
+            "explaination": "<b style=\"color:green;\">Correct: </b>1 Business Architecture – 2 Technology Architecture – 3 Migration Planning",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 4,
+                    "Name": "1 Architecture Vision - 2 Technology Architecture – 3 Migration Planning",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 4,
+                    "Name": "1 Business Architecture – 2 Data Architecture – 3 Opportunities and Solutions",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 4,
+                    "Name": "1 Business Architecture – 2 Technology Architecture – 3 Migration Planning",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 4,
+                    "Name": "1 Information Systems Architectures – 2 Opportunities and Solutions – 3 Architecture Governance",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 5,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which section of the TOGAF template for Architecture Principles highlights the requirements for the Business and IT, for carrying out the principle?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Implications is the section of the TOGAF template for Architecture Principles that highlights the requirements for the Business and IT, for carrying out the principle.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 5,
+                    "Name": "Implications",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 5,
+                    "Name": "Name",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 5,
+                    "Name": "Rationale",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 5,
+                    "Name": "Statement",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 6,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The strategy for a hardware store chain includes expanding its sales from physical stores to include online sales and services.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">You have been asked if they should use an Enterprise Architecture to support this change and why.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">(Select the best answer)</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">A good Enterprise Architecture facilitates effective governance, management, risk management, and exploitation opportunities.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 6,
+                    "Name": "No, as this is a Digital Transformation, using an Enterprise Architecture is not suitable as it will slow down the Agile solution development.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 6,
+                    "Name": "No, Enterprise Architecture helps to describe the future state and the current state of the enterprise, but is not suitable for such a strategic change.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 6,
+                    "Name": "Yes, a good Enterprise Architecture facilitates effective governance, management, risk management, and exploitation opportunities.",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 6,
+                    "Name": "Yes, an Enterprise Architecture team experienced in current technology will be able to take the key decisions needed for such a change.",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 7,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">What are the levels of the Architecture Landscape?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The levels of Architecture Landscape are Capability, Segment, and Strategic Architectures.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 7,
+                    "Name": "Baseline, Transition, and Target Architectures",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 7,
+                    "Name": "Business, Data, Application, and Technology Architectures",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 7,
+                    "Name": "Capability, Segment, and Strategic Architectures",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 7,
+                    "Name": "Foundation, Common, and Solution Architectures",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 8,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following best describes how Architecture Governance typically operates?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">This is the correct answer. Architecture Governance typically does not operate in isolation, but within a hierarchy of governance structures, which, particularly in the larger enterprise, can include all of the following as distinct domains with their own disciplines and processes:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> Corporate Governance</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> Technology Governance</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> IT Governance</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> Architecture Governance</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 8,
+                    "Name": "At the top level of the organization",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 8,
+                    "Name": "In isolation",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 8,
+                    "Name": "In Phase G of the ADM",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 8,
+                    "Name": "Within a hierarchy of governance structure",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 9,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following best describes the purpose of the Statement of Architecture Work?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The Statement of Architecture Work defines the scope and approach to complete an architecture development cycle.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 9,
+                    "Name": "It defines the scope and approach to complete an architecture development cycle.",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 9,
+                    "Name": "It is sent from the sponsor and triggers the start of an architecture development cycle.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 9,
+                    "Name": "It provides a high-level aspirational view of the end architecture project.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 9,
+                    "Name": "It provides a schedule for implementation of the Target Architecture.",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 10,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">You have been asked to explain why Enterprise Architecture can be beneficial.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following is the best answer?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Enterprise Architecture can be beneficial as it provides a strategic context for the evolution of the enterprise in response to constantly changing needs.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 10,
+                    "Name": "It guides the architects to make appropriate technology choices to maximize shareholder value.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 10,
+                    "Name": "It optimizes the enterprise business strategy making all components work together.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 10,
+                    "Name": "It provides a strategic context for the evolution of the enterprise in response to constantly changing needs.",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 10,
+                    "Name": "It sets the range, scope, and scale of the changes defined by the strategy.",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 11,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">What is an objective of the Preliminary Phase?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">An objective of the Preliminary Phase is to Establish the Architecture Capability including defining and establishing the detailed process and resources for Architecture Governance.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 11,
+                    "Name": "To develop the Architecture Vision document",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 11,
+                    "Name": "To develop the Implementation and Migration Plan",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 11,
+                    "Name": "To establish the Architecture Governance process",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 11,
+                    "Name": "To operate the governance framework",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 12,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following describes a purpose of Architecture Principles?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Enterprise Architecture Principles should address the following purposes:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> Enable decision-making – it is important to set precedence during trade-off discussions and authority of tie-breaking if it must occur</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> Align the enterprise – principles take subjectivity and bias out of the equation and drive critical conversations that are objective and aligned to the enterprise’s values</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> Governance – how will the enterprise ensure that the right decisions are surfaced at the right time and with the right decision-makers, and, moreover, how to monitor the decisions and approach taken to arrive at the decision?</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> Values and Culture – provide a better understanding about the enterprise’s culture and values; provide an approach and insight into how well the enterprise reacts to change</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 12,
+                    "Name": "To control the business in pursuit of strategic objectives",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 12,
+                    "Name": "To describe likely impacts resulting from successful deployment of the Target Architecture",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 12,
+                    "Name": "To form a contract between the sponsoring organization and the Enterprise Architect",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 12,
+                    "Name": "To set precedence during trade-off discussions",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 13,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following is a responsibility of an Architecture Board?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">One of the responsibilities of the Architecture Board is enforcement of architecture compliance.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 13,
+                    "Name": "Allocating resources for architecture projects",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 13,
+                    "Name": "Conducting assessments of the maturity level of architecture discipline within the organization",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 13,
+                    "Name": "Determining the scope of an architecture compliance review",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 13,
+                    "Name": "Enforcement of architecture compliance",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 14,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which statement best applies to an Architecture Repository?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">A significant factor that results in a well-run sustainable Enterprise Architecture Repository is the minimization of information gathered and maintained. Any information that is not required for the current Architecture Project, or supports minimal traceability, should not be captured.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 14,
+                    "Name": "A complete Architecture Repository is required to capture all artifacts listed in the TOGAF Standard.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 14,
+                    "Name": "A well-run Architecture Repository leads to the minimization of information gathered and maintained.",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 14,
+                    "Name": "Agile organizations are not able to use an Architecture Repository.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 14,
+                    "Name": "An Architecture Repository contains materials that are only used by the Enterprise Architecture team.",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 15,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">What ADM phase includes obtaining approval for the Statement of Architecture Work?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Obtain approval for a Statement of Architecture Work that defines a program of works to develop and deploy the architecture outlined in the Architecture Vision is an objective of Phase A: Architecture Vision.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 15,
+                    "Name": "Preliminary Phase",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 15,
+                    "Name": "Architecture Vision",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 15,
+                    "Name": "Technology Architecture",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 15,
+                    "Name": "Migration Planning",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 8.59.58 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 16,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Refer to the table below:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span style=\"font-weight: bolder;\">Phase:&nbsp;</span>?</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span style=\"font-weight: bolder;\">Output &amp; Outcome:&nbsp;</span>An approved set of projects, containing the objective and any necessary constraints, resources required, and start and finish dates.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span style=\"font-weight: bolder;\">Essential Knowledge:&nbsp;</span>Resources available to undertake the change. How stakeholder priority and preference adjust in response to value, effort, and risk of change. (Stakeholder Requirements)</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which ADM phase(s) does this describe?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The Output &amp; Outcome and Essential Knowledge describe Phase F.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 16,
+                    "Name": "Phase A",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 16,
+                    "Name": "Phases B, C and D",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 16,
+                    "Name": "Phase E",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 16,
+                    "Name": "Phase F",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 17,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Complete the sentence. A set of Architecture Principles that are enduring and yet able to accommodate change meet the recommended criteria of …………</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">A set of Architecture Principles that are enduring and yet able to accommodate change meet the recommended criteria of stability.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 17,
+                    "Name": "Consistency",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 17,
+                    "Name": "Completeness",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 17,
+                    "Name": "Robustness",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 17,
+                    "Name": "Stability",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 18,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following describes how the Enterprise Continuum is used when developing an Enterprise Architecture?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The simplest way of thinking of the Enterprise Continuum is as a view of the repository of all the architecture assets. It can contain Architecture Descriptions, models, building blocks, patterns, architecture viewpoints, and other artifacts – that exist both within the enterprise and in the IT industry at large, which the enterprise considers to have available for the development of architectures for the enterprise. Examples of internal architecture and solution artifacts are the deliverables of previous architecture work, which are available for re-use.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 18,
+                    "Name": "To coordinate with the other management frameworks in use",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 18,
+                    "Name": "To describe how an architecture addresses stakeholder concerns",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 18,
+                    "Name": "To identify and understand business requirements",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 18,
+                    "Name": "To structure re-usable architecture and solution assets",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 9.00.10 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 19,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Consider the following ADM phases objectives:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>1:</b> Identify candidate Architecture Roadmap components based upon gaps between the Baseline and Target Technology Architectures</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>2:</b> Identify candidate Architecture Roadmap components based upon gaps between the Baseline and Target Information Systems (Data and Application) Architectures</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>3:</b> Identify candidate Architecture Roadmap components based upon gaps between the Baseline and Target Business Architectures</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>4:</b> Obtain approval for a Statement of Architecture Work that defines a program of works to develop and deploy the architecture outlined in the Architecture Vision</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which phase does each objective match?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase D:</b> Identify candidate Architecture Roadmap components based upon gaps between the Baseline and Target Technology Architectures</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase C: </b>Identify candidate Architecture Roadmap components based upon gaps between the Baseline and Target Information Systems (Data and Application) Architectures</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase B:</b> Identify candidate Architecture Roadmap components based upon gaps between the Baseline and Target Business Architectures</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase A:</b> Obtain approval for a Statement of Architecture Work that defines a program of works to develop and deploy the architecture outlined in the Architecture Vision</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 19,
+                    "Name": "1A-2B-3C-4D",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 19,
+                    "Name": "1B-2D-3A-4C",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 19,
+                    "Name": "1C-2D-3B-4A",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 19,
+                    "Name": "1D-2C-3B-4A",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 20,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">According to the TOGAF Standard, which of the following best describes the purpose of an Architecture Definition Document?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The Architecture Definition Document is the deliverable container for the core architectural artifacts created during a project and for important related information.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 20,
+                    "Name": "To act as a deliverable container for artifacts created during a project",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 20,
+                    "Name": "To ensure that architecture information is communicated to the right stakeholders at the right time",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 20,
+                    "Name": "To provide a high-level view of the end architecture product",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 20,
+                    "Name": "To show progression of change from the Baseline Architecture to the Target Architecture",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 9.00.20 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 21,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following best describes the ADM diagram?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The TOGAF ADM should not be understood as a processes model. The ADM graphic is a stylized representation showing essential information flows and is not a representation of activity sequence.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 21,
+                    "Name": "A linear waterfall process model.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 21,
+                    "Name": "A sequenced approach to develop an Enterprise Architecture.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 21,
+                    "Name": "A stylized representation showing essential information flows.",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 21,
+                    "Name": "An iteration cycle.",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 22,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Complete the sentence by selecting the applicable pair of words. A/an ………… is used in the Business Architecture phase to help identify and understand business ………… that the architecture has to address.</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">A business scenario is used in the Business Architecture phase to help identify and understand business requirements that the architecture has to address.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 22,
+                    "Name": "activity model, perspective",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 22,
+                    "Name": "business scenario, requirements",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 22,
+                    "Name": "use-case, interconnections",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 22,
+                    "Name": "business transformation readiness assessment, constraints",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 23,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which statement about architecture partitioning is correct?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">It is impractical to present a definitive partitioning model for architecture. Each enterprise needs to adopt a partitioning model that reflects its own operating model.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 23,
+                    "Name": "A partitioning model is a necessity for Agile enterprises.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 23,
+                    "Name": "An enterprise should develop a partitioning model that reflects its organization structure.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 23,
+                    "Name": "Each enterprise needs to adopt a partitioning model that reflects its operating model.",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 23,
+                    "Name": "The TOGAF Standard mandates the use of its partitioning model.",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 24,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">According to the TOGAF Standard, which of the following best describes the purpose of an Architecture Roadmap?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The Architecture Roadmap lists individual work packages that will realize the Target Architecture and lays them out on a timeline to show progression from the Baseline Architecture to the Target Architecture.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 24,
+                    "Name": "To ensure that architecture information is communicated to the right stakeholders at the right time",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 24,
+                    "Name": "To govern the architecture throughout its implementation process",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 24,
+                    "Name": "To provide a high-level view of the end architecture product",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 24,
+                    "Name": "To show progression of change from the Baseline Architecture to the Target Architecture",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 9.00.32 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 25,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Consider the following image:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">What does this show?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">At the highest level, the TOGAF Content Framework (see Figure 3-6 in the TOGAF Standard, 10<span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 6.5px; line-height: normal;\">th</span> Edition – Introduction and Core Concepts) is structured in line with the phases of the ADM.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 25,
+                    "Name": "A Content Framework",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 25,
+                    "Name": "A Digital Business",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 25,
+                    "Name": "An Architecture Repository",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 25,
+                    "Name": "An Enterprise Repository",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 9.00.44 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 26,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Consider the following ADM phases objectives:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>1:&nbsp;</b>Determine whether an incremental approach is required, and if so identify Transition Architectures that will deliver continuous business value</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>2:&nbsp;</b>Ensure that the Implementation and Migration Plan is coordinated with the enterprise’s approach to managing and implementing change in the enterprise’s overall change portfolio</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>3:</b> Define the overall Solution Building Blocks (SBBs) to finalize the Target Architecture based on the Architecture Building Blocks (ABBs)</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>4:</b> Ensure that the business value and cost of work packages and Transition Architectures is understood by key stakeholders</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which phase does each objective match?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase&nbsp;E:</b> Determine whether an incremental approach is required, and if so identify Transition Architectures that will deliver continuous business value</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase&nbsp;F: </b>Ensure that the Implementation and Migration Plan is coordinated with the enterprise’s approach to managing and implementing change in the enterprise’s overall change portfolio</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase&nbsp;E: </b>Define the overall Solution Building Blocks (SBBs) to finalize the Target Architecture based on the Architecture Building Blocks (ABBs)</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase&nbsp;F: </b>Ensure that the business value and cost of work packages and Transition Architectures is understood by key stakeholders</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 26,
+                    "Name": "1E-2F-3E-4F",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 26,
+                    "Name": "1E-2F-3F-4G",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 26,
+                    "Name": "1F-2G-3F-4F",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 26,
+                    "Name": "1G-2G-3E-4F",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 27,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">In which phase of the ADM does the TOGAF Standard align with Agile development?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The TOGAF Standard aligns with Agile development in Phase G.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 27,
+                    "Name": "Phase B",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 27,
+                    "Name": "Phase E",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 27,
+                    "Name": "Phase F",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 27,
+                    "Name": "Phase G",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 28,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following best describes the purpose of the Business Transformation Readiness Assessment technique?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The Business Transformation Readiness Assessment technique is used for evaluating and quantifying an organization’s readiness to undergo change.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 28,
+                    "Name": "To determine if the organization is ready to undergo change",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 28,
+                    "Name": "To determine if the stakeholders support the implementation plan",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 28,
+                    "Name": "To ensure that there are adequate trained engineers to develop the solution",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 28,
+                    "Name": "To plan the migration steps needed to achieve the transformation",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 29,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Consider the following statement:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">In the ADM, documents which have been reviewed and approved are designated “approved” in accordance with the organization's governance practices.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which statement about approved documents is also true?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Documents which have been reviewed and approved are designated “approved” in accordance with the organization’s governance practices. Approved does not necessarily mean finalized. Documents may evolve during subsequent phases but may only be changed through an appropriate change control and governance process.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 29,
+                    "Name": "Approved documents are finalized after a phase.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 29,
+                    "Name": "Approved documents are marked as draft until they are finalized.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 29,
+                    "Name": "Approved documents are not always finalized.",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 29,
+                    "Name": "Approved documents may not be changed in subsequent phases.",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 30,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which one of the following best describes the purpose of a Change Request?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">During implementation of an architecture, as more facts become known, it is possible that the original Architecture Definition and requirements are not suitable or are not sufficient to complete the implementation of a solution. In these circumstances, it is necessary for implementation projects to either deviate from the suggested architectural approach or to request scope extensions. Additionally, external factors – such as market factors, changes in business strategy, and new technology opportunities – may open up opportunities to extend and refine the architecture.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">In these circumstances, a Change Request may be submitted in order to kick-start a further cycle of architecture work.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 30,
+                    "Name": "To ensure that information is communicated to the right stakeholders at the right time",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 30,
+                    "Name": "To ensure that the results of a Compliance Assessment are distributed to the Architecture Board",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 30,
+                    "Name": "To request a dispensation or to kick-start a further cycle of architecture work",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 30,
+                    "Name": "To review project progress and ensure the implementation is in line with the objectives",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 31,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Why is it important to use iteration when applying the TOGAF ADM?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Iteration within an ADM cycle (architecture development iteration) can support projects that operate multiple ADM phases concurrently.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 31,
+                    "Name": "It enables the capture of stakeholder requirements through the ADM cycle",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 31,
+                    "Name": "It helps identify Business Scenarios to choose from",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 31,
+                    "Name": "It supports projects operating multiple ADM phases concurrently",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 31,
+                    "Name": "It supports the selection of alternative Target Architectures",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 32,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">What level of risk is the risk categorization prior to determining and implementing mitigating actions?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">It is also important to note that the Enterprise Architect may identify the risks and mitigate certain ones, but it is within the governance framework that risks have to be first accepted and then managed.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">There are two levels of risk that should be considered, namely:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> Initial Level of Risk: risk categorization prior to determining and implementing mitigating actions</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> Residual Level of Risk: risk categorization after implementation of mitigating actions (if any)</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 32,
+                    "Name": "Initial",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 32,
+                    "Name": "Low",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 32,
+                    "Name": "Marginal",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 32,
+                    "Name": "Residual",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 9.01.01 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 33,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Consider the following image:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following does it illustrate?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">In order to carry out architectural activity effectively within an enterprise, it is necessary to put in place an appropriate business capability for architecture, through organization structures, roles, responsibilities, skills, and processes. An overview of the TOGAF Architecture Capability is shown in the following image:</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 33,
+                    "Name": "An Enterprise Architecture Capability",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 33,
+                    "Name": "An Enterprise Architecture",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 33,
+                    "Name": "An Enterprise Architecture framework",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 33,
+                    "Name": "An Enterprise Architecture metamodel",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 34,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following statements related to governance in Enterprise Architecture is the most correct?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Central to the definition of governance is “directs and controls”. Typically, the practitioner and implementer are directed, and both are controlled by the stakeholder.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 34,
+                    "Name": "The architecture practitioner and implementer are directed and both are controlled by the stakeholder.",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 34,
+                    "Name": "The architecture practitioner governs the architecture development and controls the implementer.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 34,
+                    "Name": "The CEO governs the architecture and directs the architecture practitioner and implementer.",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 34,
+                    "Name": "The stakeholder directs the architecture development and controls the architecture changes.",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 9.01.19 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 35,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Refer to the table below:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span style=\"font-weight: bolder;\">Phase:&nbsp;</span>?&nbsp;</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span style=\"font-weight: bolder;\">Output &amp; Outcome:&nbsp;</span>Direction to proceed and start developing a Target Architecture that addresses perceived, real, or anticipated shortfalls in the enterprise relative to stakeholder preferences.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span style=\"font-weight: bolder;\">Essential Knowledge:&nbsp;</span></p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Gaps between approved target, or preference, and realization from prior work. (Value Realization)</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Changes in preference or priority. (Stakeholder Requirements)</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which ADM Phase does this describe?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The Output &amp; Outcome and Essential Knowledge describe Phase H.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 35,
+                    "Name": "Phase B",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 35,
+                    "Name": "Phase E",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 35,
+                    "Name": "Phase G",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 35,
+                    "Name": "Phase H",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 36,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Complete the sentence. Architecture Contracts …………</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The traditional Architecture Contract is an agreement between the sponsor and the architecture function or Information Systems (IS) department. However, increasingly more services are being provided by systems integrators, applications providers, and service providers, coordinated through the architecture function or IS department. There is therefore a need for an Architecture Contract to establish joint agreements between all parties involved in the architecture development and delivery.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 36,
+                    "Name": "provide a quantitative view of the effort to produce the solution",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 36,
+                    "Name": "ensure monitoring and audit of implementation-related activities of the architecture",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 36,
+                    "Name": "should include agreements with all parties involved in delivery of the architecture",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 36,
+                    "Name": "permit deviations from the principles, standards, and requirements of the architecture",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "images/MyScreenshot 2024-12-26 at 9.01.27 PM.png",
+            "QuestionTypeId": 1,
+            "Id": 37,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Consider the following ADM phases objectives:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>1:</b> Ensure that the Enterprise Architecture Capability meets current requirements</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>2:</b> Ensure conformance with the Target Architecture by implementation projects</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>3:</b> Finalize the Architecture Roadmap and the supporting Implementation and Migration Plan</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>4:</b> Perform appropriate Architecture Governance functions for the solution and any implementation-driven architecture Change Requests</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which phase does each objective match?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase&nbsp;H:</b> Ensure that the Enterprise Architecture Capability meets current requirements</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase G: </b>Ensure conformance with the Target Architecture by implementation projects</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase F:</b> Finalize the Architecture Roadmap and the supporting Implementation and Migration Plan</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><b>Phase G: </b>Perform appropriate Architecture Governance functions for the solution and any implementation-driven architecture Change Requests</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 37,
+                    "Name": "1E-2F-3F-4H",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 37,
+                    "Name": "1F-2G-3G-4F",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 37,
+                    "Name": "1F-2H-3H-4G",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 37,
+                    "Name": "1H-2G-3F-4G",
+                    "IsAnswer": true
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 38,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Consider the following description:</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> The first part uses the vision, principles, requirements, and other information to select sets of criteria fitting for different alternatives</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> The second part defines alternatives based on the criteria and builds an understanding of each</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\"><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">•</span> The third part will either select one of the alternatives, or else combine features from more than one, to create the proposed alternative</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">What does this describe?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">It is most common that a single alternative does not exist that will meet all stakeholders' concerns. The TOGAF Standard (see the TOGAF Standard, 10<span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 6.5px; line-height: normal;\">th</span> Edition – ADM Techniques: Architecture Alternatives and Trade-Offs) provides a technique to investigate different alternatives and to discuss these with the stakeholders.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The first part of the method uses the vision, principles, requirements, and other information to select sets of criteria fitting for different alternatives.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The second part of the method defines alternatives based on the criteria and builds an understanding of each.</p><p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The third part of the method will either select one of the alternatives, or else combine features from more than one, to create the proposed alternative.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 38,
+                    "Name": "Architecture Partitioning",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 38,
+                    "Name": "Iteration",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 38,
+                    "Name": "The Architecture Trade-Off method",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 38,
+                    "Name": "The Business Scenario method",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 39,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">When considering the scope of an architecture, what dimension considers the appropriate level of detail to be captured based on intended use of the Enterprise Architecture?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Four dimensions are typically used in order to define and limit the scope of an architecture: Depth: to what level of detail should the architecting effort go? How much architecture is “enough”? What is the appropriate demarcation between the architecture effort and other, related activities (system design, system engineering, system development)?</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 39,
+                    "Name": "Breadth",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 39,
+                    "Name": "Depth",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 39,
+                    "Name": "Project",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 39,
+                    "Name": "Segment",
+                    "IsAnswer": false
+                }
+            ]
+        },
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 40,
+            "Name": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">Which of the following best describes a purpose of the Gap Analysis technique?</p>",
+            "explaination": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 10.1px; line-height: normal; font-family: Arial; color: rgb(0, 0, 0);\">The technique known as Gap Analysis is widely used in the TOGAF ADM to validate an architecture that is being developed. The basic premise is to highlight a shortfall between the Baseline Architecture and the Target Architecture; that is, items that have been deliberately omitted, accidentally left out, or not yet defined.</p>",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 40,
+                    "Name": "To catch errors in a project architecture early",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 40,
+                    "Name": "To guide decision-making throughout the enterprise",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 40,
+                    "Name": "To help identify and understand business requirements",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 40,
+                    "Name": "To highlight shortfalls between the Baseline and Target Architectures",
+                    "IsAnswer": true
                 }
             ]
         }
