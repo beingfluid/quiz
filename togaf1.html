@@ -21,6 +21,7 @@
                 
                         <div class="shadow-1-strong" style="font-weight: bold; color: rgb(255, 0, 132)">
                             <p>Que. {{itilQue["Id"]}}) <span ta-bind="text" ng-model="itilQue['Name']" ta-readonly='disabled'></span></p>
+                            <img ng-if="itilQue.quizImage" ng-src="{{itilQue['quizImage']}}">
                         </div>
                         <ol type="A">
                             <div ng-repeat="option in itilQue['Options']">

@@ -157,8 +157,8 @@ function RoutesConfig ( $routeProvider ) {
     } ).when( '/ucsanew1', {
         templateUrl: 'ucsanew1.html',
         controller: 'QuizController'
-    } ).when( '/itilnew1', {
-        templateUrl: 'itilnew1.html',
+    } ).when( '/togaf1', {
+        templateUrl: 'togaf1.html',
         controller: 'ITILNewQuizController'
     } ).when( '/itil4', {
         templateUrl: 'itilnew1.html',
@@ -264,6 +264,7 @@ function quizBuilderController($scope,$window,toaster) {
           "Name": "Multiple Choice",
           "IsActive": true
         },
+        "quizImage":"",
         "QuestionTypeId":1
       };
 
@@ -672,7 +673,7 @@ app.controller( 'ITILNewQuizController',  ITILNewQuizController);
 ITILNewQuizController.$inject = [ '$scope', '$http' ];
 function ITILNewQuizController( $scope, $http ) {
 
-    $http.get( "itilnew1.json" ).then( function ( response ) {
+    $http.get( "togaf1.json" ).then( function ( response ) {
       $scope.review=false;
       $scope.quizSubmitted=false;
 

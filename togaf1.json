@@ -1,0 +1,47 @@
+{
+    "quiz": {
+        "Id": 1,
+        "name": "TOGAF 1",
+        "description": "TOGAF: Practice Set 1"
+    },
+    "questions": [
+        {
+            "QuestionType": {
+                "Id": 1,
+                "Name": "Multiple Choice",
+                "IsActive": true
+            },
+            "quizImage": "",
+            "QuestionTypeId": 1,
+            "Id": 1,
+            "Name": "In the <b>Preliminary Phase</b>, which of the following is <b style=\"color:red;\">NOT</b> a typical output?<br>",
+            "explaination": "The Preliminary Phase sets the groundwork for the architecture work. While it deals with the organizational model, tailoring the framework, and initial repository content, it doesn't delve into high-level system design.",
+            "Options": [
+                {
+                    "Id": 1,
+                    "QuestionId": 1,
+                    "Name": "High-level system design",
+                    "IsAnswer": true
+                },
+                {
+                    "Id": 2,
+                    "QuestionId": 1,
+                    "Name": "Initial Architecture Repository content",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 3,
+                    "QuestionId": 1,
+                    "Name": "Tailored Architecture Framework",
+                    "IsAnswer": false
+                },
+                {
+                    "Id": 4,
+                    "QuestionId": 1,
+                    "Name": "Organizational Model for Enterprise Architecture",
+                    "IsAnswer": false
+                }
+            ]
+        }
+    ]
+}
